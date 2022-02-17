@@ -1,0 +1,38 @@
+2020-01-09 10:07:35,349 INFO  [ 1] MvcApplication - SelfCheck System Manager Started.
+2020-01-09 10:07:35,357 INFO  [ 1] MvcApplication - System Information:
+Server Name = 'DESKTOP-MMDJ23S'
+Operating System = '(unknown)'
+Operating System Directory = 'C:\Windows\system32'
+.Net Version = '4.0.30319.42000'
+.Net Language = 'English (United States)'
+2020-01-09 10:07:36,994 INFO  [ 1] ConfigurationAgent - Configuration caching is enabled
+2020-01-09 10:07:36,994 INFO  [ 7] ConfigurationAgent - Configuration status update monitor started
+2020-01-09 10:07:37,908 INFO  [ 1] ConfigurationServiceProxy - Request: GET http://localhost:8703/SelfCheckConfig/Names 
+2020-01-09 10:07:37,924 INFO  [ 1] ConfigurationServiceProxy - Request: GET http://localhost:8703/SelfCheckConfig/Data/System 
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/VerboseLoggingAllowed = True
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/LibraryName = "bibliotheca quickConnect™ selfCheck"
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/SystemName = "DESKTOP-MMDJ23S"
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/LocaleName = "US"
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/StaffCultureName = null
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/SupportedLanguageCodes = "en-US", "es-MX", "fr-FR", "zh-Hans", "af", "aii", "ar", "be-BY", "br-FR", "bg-BG", "cs-CZ", "cy-GB", "da-DK", "de-DE", "el-GR", "en-GB", "ga-IE", "es-ES", "eu", "fa", "fi-FI", "fil-PH", "fr-CA", "gl", "he-IL", "hi-IN", "hmn", "hr-HR", "ht", "hu-HU", "hy", "id", "it-IT", "ja-JP", "ko-KR", "lt-LT", "lv-LV", "mt-MT", "mi-NZ", "ms-MY", "nb-NO", "nl-NL", "pa-IN", "pl-PL", "pt-BR", "pt-PT", "ro-RO", "ru-RU", "si-LK", "sk-SK", "sl-SI", "sm", "so", "sr-Latn", "sv-SE", "ta", "th-TH", "tr-TR", "ur", "vi-VN", "zh-Hant"
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/CustomLanguageCodes = 
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/VisibleLanguageCodes = "en-US", "es-MX", "fr-FR", "zh-Hans", "af", "aii", "ar", "be-BY", "br-FR", "bg-BG", "cs-CZ", "cy-GB", "da-DK", "de-DE", "el-GR", "en-GB", "ga-IE", "es-ES", "eu", "fa", "fi-FI", "fil-PH", "fr-CA", "gl", "he-IL", "hi-IN", "hmn", "hr-HR", "ht", "hu-HU", "hy", "id", "it-IT", "ja-JP", "ko-KR", "lt-LT", "lv-LV", "mt-MT", "mi-NZ", "ms-MY", "nb-NO", "nl-NL", "pa-IN", "pl-PL", "pt-BR", "pt-PT", "ro-RO", "ru-RU", "si-LK", "sk-SK", "sl-SI", "sm", "so", "sr-Latn", "sv-SE", "ta", "th-TH", "tr-TR", "ur", "vi-VN", "zh-Hant"
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/DateTimeFormat = "d"
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/SupportedCurrencyCodes = "AED", "AFN", "ALL", "AMD", "ANG", "AOA", "ARS", "AUD", "AWG", "AZN", "BAM", "BBD", "BDT", "BGN", "BHD", "BIF", "BMD", "BND", "BOB", "BRL", "BSD", "BTN", "BWP", "BYN", "BYR", "BZD", "CAD", "CDF", "CHF", "CLP", "CNY", "COP", "CRC", "CUC", "CUP", "CVE", "CZK", "DJF", "DKK", "DOP", "DZD", "EGP", "ERN", "ETB", "EUR", "FJD", "FKP", "GBP", "GEL", "GHS", "GIP", "GMD", "GNF", "GTQ", "GYD", "HKD", "HNL", "HRK", "HTG", "HUF", "IDR", "ILS", "INR", "IQD", "IRR", "ISK", "JMD", "JOD", "JPY", "KES", "KGS", "KHR", "KMF", "KPW", "KRW", "KWD", "KYD", "KZT", "LAK", "LBP", "LKR", "LRD", "LSL", "LYD", "MAD", "MDL", "MGA", "MKD", "MMK", "MNT", "MOP", "MRO", "MUR", "MVR", "MWK", "MXN", "MYR", "MZN", "NAD", "NGN", "NIO", "NOK", "NPR", "NZD", "OMR", "PAB", "PEN", "PGK", "PHP", "PKR", "PLN", "PYG", "QAR", "RON", "RSD", "RUB", "RWF", "SAR", "SBD", "SCR", "SDG", "SEK", "SGD", "SHP", "SLL", "SOS", "SRD", "SSP", "STD", "SYP", "SZL", "THB", "TJS", "TMT", "TND", "TOP", "TRY", "TTD", "TWD", "TZS", "UAH", "UGX", "USD", "UYU", "UZS", "VEF", "VND", "VUV", "WST", "XAF", "XCD", "XOF", "XPF", "YER", "ZAR", "ZMW", "ZWL"
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/DefaultCurrencyCode = "USD"
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/ShellStretch = null
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/ShellHeight = null
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/ShellWidth = null
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/ScreenHeight = 1080
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/ScreenWidth = 1920
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/StartUpMode = Demo
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/PerformanceIndex = null
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/LanguageRestoreDelayPeriod = 00:00:15
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/MaxDisplayedLanguageOptions = null
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/IsSelectedLanguageShown = False
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/DigitalSubstitution = null
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/TransposeForRightToLeftLanguage = False
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/OuterShellBackground = "Black"
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/SystemManagerUri = "http://localhost/SystemManager"
+2020-01-09 10:07:37,977 INFO  [ 1] ConfigurationAgent - System/UseCirculationServerLanguage = False
+2020-01-09 10:07:37,977 VERBOSE [ 1] MvcApplication - Verbose logging is allowed
