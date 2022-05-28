@@ -1356,6 +1356,8 @@ Public Class clsSip2Patron
                     'strNBDueDate = PrintISOTime(Now.AddDays(10), TimeZone)
                     'Check lai nha
                     strNBDueDate = Now.AddDays(10).ToString("dd/MM/yyyy")
+                    '2022 return ngay tra
+                   
                 End If
                 'strResponse = "121NNY" & PrintISOTime(Now, TimeZone) & "AO" & colFields("AO") & "|AA" & colFields("AA") & "|AB" & colFields("AB") & "|AJ" & strTitle & "|AH" & strNBDueDate & "|CH" & strNote
                 '121NNY20210326    165632AO|AA100220066|AB100012024|AJLuat an ninh quAc gia: QuAc hoi thong qua ngay 03 thAng 12 nam 2004|AH4/19/2021|CK001|AY4AZE9F9
