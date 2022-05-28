@@ -1,0 +1,9 @@
+E:\SourceLibol\Sip2Server\ConfigSip2Server\bin\ConfigSip2Server.exe
+E:\SourceLibol\Sip2Server\ConfigSip2Server\bin\ConfigSip2Server.pdb
+E:\SourceLibol\Sip2Server\ConfigSip2Server\bin\ConfigSip2Server.xml
+E:\SourceLibol\Sip2Server\ConfigSip2Server\obj\Debug\ConfigSip2Server.frmConfig.resources
+E:\SourceLibol\Sip2Server\ConfigSip2Server\obj\Debug\ConfigSip2Server.InstallConfig.resources
+E:\SourceLibol\Sip2Server\ConfigSip2Server\obj\Debug\ConfigSip2Server.vbproj.GenerateResource.Cache
+E:\SourceLibol\Sip2Server\ConfigSip2Server\obj\Debug\ConfigSip2Server.exe
+E:\SourceLibol\Sip2Server\ConfigSip2Server\obj\Debug\ConfigSip2Server.xml
+E:\SourceLibol\Sip2Server\ConfigSip2Server\obj\Debug\ConfigSip2Server.pdb

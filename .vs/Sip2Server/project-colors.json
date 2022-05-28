@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "30eadb20-5022-4f65-b2e1-7f322732d0ec": {
+      "ProjectGuid": "30eadb20-5022-4f65-b2e1-7f322732d0ec",
+      "DisplayName": "ACSSip2Service",
+      "ColorIndex": 0
+    },
+    "b06609d2-08b5-408e-8f16-78522a009c09": {
+      "ProjectGuid": "b06609d2-08b5-408e-8f16-78522a009c09",
+      "DisplayName": "ProcessData",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d10ed304-ae65-4b1f-a844-43fe51fc489d": {
+      "ProjectGuid": "d10ed304-ae65-4b1f-a844-43fe51fc489d",
+      "DisplayName": "WinSocket",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

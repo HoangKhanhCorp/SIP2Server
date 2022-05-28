@@ -1,0 +1,58 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WinSocket", "WinSocket\WinSocket.vbproj", "{D10ED304-AE65-4B1F-A844-43FE51FC489D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ProcessData", "ProcessData\ProcessData.vbproj", "{B06609D2-08B5-408E-8F16-78522A009C09}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ACSSip2Service", "ACSSip2Service\ACSSip2Service.vbproj", "{30EADB20-5022-4F65-B2E1-7F322732D0EC}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Sip2Management", "Sip2Management\Sip2Management.vbproj", "{E7592E1D-B000-451F-ADF9-8AED94B40B26}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConfigSip2Server", "ConfigSip2Server\ConfigSip2Server.vbproj", "{FD53F2DA-2CAF-4B43-B966-A16A36D55EF4}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Sip2ServerConsole", "Sip2ServerConsole\Sip2ServerConsole.vbproj", "{4ED33913-518E-4F50-943C-0D8F89EF6013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatServer", "SocketServer\ChatServer.csproj", "{93CDF511-BB62-4697-981A-598AAE16D10D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D10ED304-AE65-4B1F-A844-43FE51FC489D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D10ED304-AE65-4B1F-A844-43FE51FC489D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D10ED304-AE65-4B1F-A844-43FE51FC489D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D10ED304-AE65-4B1F-A844-43FE51FC489D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B06609D2-08B5-408E-8F16-78522A009C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B06609D2-08B5-408E-8F16-78522A009C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B06609D2-08B5-408E-8F16-78522A009C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B06609D2-08B5-408E-8F16-78522A009C09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30EADB20-5022-4F65-B2E1-7F322732D0EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30EADB20-5022-4F65-B2E1-7F322732D0EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30EADB20-5022-4F65-B2E1-7F322732D0EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30EADB20-5022-4F65-B2E1-7F322732D0EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7592E1D-B000-451F-ADF9-8AED94B40B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7592E1D-B000-451F-ADF9-8AED94B40B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7592E1D-B000-451F-ADF9-8AED94B40B26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD53F2DA-2CAF-4B43-B966-A16A36D55EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD53F2DA-2CAF-4B43-B966-A16A36D55EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD53F2DA-2CAF-4B43-B966-A16A36D55EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED33913-518E-4F50-943C-0D8F89EF6013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED33913-518E-4F50-943C-0D8F89EF6013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED33913-518E-4F50-943C-0D8F89EF6013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED33913-518E-4F50-943C-0D8F89EF6013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93CDF511-BB62-4697-981A-598AAE16D10D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CDF511-BB62-4697-981A-598AAE16D10D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CDF511-BB62-4697-981A-598AAE16D10D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CDF511-BB62-4697-981A-598AAE16D10D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02068663-57C7-4726-9BC8-6CC7BF3AB34C}
+	EndGlobalSection
+EndGlobal

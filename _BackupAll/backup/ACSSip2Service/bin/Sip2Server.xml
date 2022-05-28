@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Head>
+<Data>
+<ConnectString>SERVER=.\SQL2017;UID=sa;PWD=123;DATABASE=LibolTDM</ConnectString>
+<IP>192.168.1.252</IP>
+<TimeZone>0700</TimeZone>
+<Currency>VND</Currency>
+<Checksum>yes</Checksum>
+<SIP2Port>6001</SIP2Port>
+</Data>
+</Head>

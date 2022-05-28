@@ -1,0 +1,4 @@
+sc.exe create Sip2Service binPath= "D:\Bitbucket\Sip2Server\ACSSip2Service\bin\ACSSip2Service.exe"
+
+
+sc.exe delete Sip2Service 

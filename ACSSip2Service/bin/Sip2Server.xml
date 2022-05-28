@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Head>
+<Data>
+<ConnectString>SERVER=.;UID=sa;PWD=Sa@123;DATABASE=LibolTDM</ConnectString>
+<IP></IP>
+<TimeZone></TimeZone>
+<Currency>VND</Currency>
+<Checksum>yes</Checksum>
+<SIP2Port>6001</SIP2Port>
+<LibName>TDMU</LibName>
+</Data>
+</Head>

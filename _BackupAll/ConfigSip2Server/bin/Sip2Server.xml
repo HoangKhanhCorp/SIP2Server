@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Head>
+<Data>
+<IP>192.168.50.125</IP>
+<TimeZone>0700</TimeZone>
+<Currency>VND</Currency>
+<Checksum>yes</Checksum>
+<SIP2Port>567</SIP2Port>
+</Data>
+</Head>

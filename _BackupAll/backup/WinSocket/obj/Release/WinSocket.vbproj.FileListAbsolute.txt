@@ -1,0 +1,14 @@
+E:\SourceLibol\Sip2Server\WinSocket\bin\WinSocket.dll
+E:\SourceLibol\Sip2Server\WinSocket\bin\WinSocket.xml
+E:\SourceLibol\Sip2Server\WinSocket\obj\Release\WinSocket.dll
+E:\SourceLibol\Sip2Server\WinSocket\obj\Release\WinSocket.xml
+G:\TVE\Sip2Server\WinSocket\bin\WinSocket.dll
+G:\TVE\Sip2Server\WinSocket\bin\WinSocket.xml
+G:\TVE\Sip2Server\WinSocket\obj\Release\WinSocket.dll
+G:\TVE\Sip2Server\WinSocket\obj\Release\WinSocket.xml
+D:\Bitbucket\Sip2Server\WinSocket\bin\WinSocket.dll
+D:\Bitbucket\Sip2Server\WinSocket\bin\WinSocket.xml
+D:\Bitbucket\Sip2Server\WinSocket\obj\Release\WinSocket.vbprojAssemblyReference.cache
+D:\Bitbucket\Sip2Server\WinSocket\obj\Release\WinSocket.vbproj.CoreCompileInputs.cache
+D:\Bitbucket\Sip2Server\WinSocket\obj\Release\WinSocket.dll
+D:\Bitbucket\Sip2Server\WinSocket\obj\Release\WinSocket.xml

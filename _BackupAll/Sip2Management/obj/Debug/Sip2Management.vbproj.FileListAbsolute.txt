@@ -1,0 +1,9 @@
+E:\SourceLibol\Sip2Server\Sip2Management\bin\Sip2Management.exe
+E:\SourceLibol\Sip2Server\Sip2Management\bin\Sip2Management.pdb
+E:\SourceLibol\Sip2Server\Sip2Management\bin\Sip2Management.xml
+E:\SourceLibol\Sip2Server\Sip2Management\obj\Debug\Sip2Management.frmAbout.resources
+E:\SourceLibol\Sip2Server\Sip2Management\obj\Debug\Sip2Management.frmManagement.resources
+E:\SourceLibol\Sip2Server\Sip2Management\obj\Debug\Sip2Management.vbproj.GenerateResource.Cache
+E:\SourceLibol\Sip2Server\Sip2Management\obj\Debug\Sip2Management.exe
+E:\SourceLibol\Sip2Server\Sip2Management\obj\Debug\Sip2Management.xml
+E:\SourceLibol\Sip2Server\Sip2Management\obj\Debug\Sip2Management.pdb
