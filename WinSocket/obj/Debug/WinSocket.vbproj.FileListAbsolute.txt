@@ -19,4 +19,4 @@ D:\Bitbucket\Sip2Server\WinSocket\obj\Debug\WinSocket.vbproj.CoreCompileInputs.c
 D:\Bitbucket\Sip2Server\WinSocket\obj\Debug\WinSocket.dll
 D:\Bitbucket\Sip2Server\WinSocket\obj\Debug\WinSocket.xml
 D:\Bitbucket\Sip2Server\WinSocket\obj\Debug\WinSocket.pdb
-D:\Bitbucket\Sip2Server\WinSocket\obj\Debug\WinSocket.vbprojAssemblyReference.cache
+D:\Bitbucket\Sip2Server\WinSocket\obj\Debug\WinSocket.vbproj.AssemblyReference.cache

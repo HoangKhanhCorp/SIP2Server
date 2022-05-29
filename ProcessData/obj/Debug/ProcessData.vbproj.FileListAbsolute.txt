@@ -23,9 +23,9 @@ D:\Bitbucket\Sip2Server2\Sip2Server\ProcessData\obj\Debug\ProcessData.vbprojAsse
 D:\Bitbucket\Sip2Server\ProcessData\bin\ProcessData.dll
 D:\Bitbucket\Sip2Server\ProcessData\bin\ProcessData.pdb
 D:\Bitbucket\Sip2Server\ProcessData\bin\ProcessData.xml
-D:\Bitbucket\Sip2Server\ProcessData\obj\Debug\ProcessData.vbprojAssemblyReference.cache
 D:\Bitbucket\Sip2Server\ProcessData\obj\Debug\ProcessData.vbproj.CoreCompileInputs.cache
 D:\Bitbucket\Sip2Server\ProcessData\obj\Debug\ProcessData.vbproj.CopyComplete
 D:\Bitbucket\Sip2Server\ProcessData\obj\Debug\ProcessData.dll
 D:\Bitbucket\Sip2Server\ProcessData\obj\Debug\ProcessData.xml
 D:\Bitbucket\Sip2Server\ProcessData\obj\Debug\ProcessData.pdb
+D:\Bitbucket\Sip2Server\ProcessData\obj\Debug\ProcessData.vbproj.AssemblyReference.cache

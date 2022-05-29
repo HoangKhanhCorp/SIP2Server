@@ -53,7 +53,6 @@ D:\Bitbucket\Sip2Server\ACSSip2Service\bin\ProcessData.pdb
 D:\Bitbucket\Sip2Server\ACSSip2Service\bin\ProcessData.xml
 D:\Bitbucket\Sip2Server\ACSSip2Service\bin\WinSocket.pdb
 D:\Bitbucket\Sip2Server\ACSSip2Service\bin\WinSocket.xml
-D:\Bitbucket\Sip2Server\ACSSip2Service\obj\Debug\ACSSip2Service.vbprojAssemblyReference.cache
 D:\Bitbucket\Sip2Server\ACSSip2Service\obj\Debug\ACSSip2Service.FormTest.resources
 D:\Bitbucket\Sip2Server\ACSSip2Service\obj\Debug\ACSSip2Service.Sip2InstallService.resources
 D:\Bitbucket\Sip2Server\ACSSip2Service\obj\Debug\ACSSip2Service.Sip2Service.resources
@@ -63,3 +62,4 @@ D:\Bitbucket\Sip2Server\ACSSip2Service\obj\Debug\ACSSip2Service.vbproj.CopyCompl
 D:\Bitbucket\Sip2Server\ACSSip2Service\obj\Debug\ACSSip2Service.exe
 D:\Bitbucket\Sip2Server\ACSSip2Service\obj\Debug\ACSSip2Service.xml
 D:\Bitbucket\Sip2Server\ACSSip2Service\obj\Debug\ACSSip2Service.pdb
+D:\Bitbucket\Sip2Server\ACSSip2Service\obj\Debug\ACSSip2Service.vbproj.AssemblyReference.cache

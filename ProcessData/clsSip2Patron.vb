@@ -1355,10 +1355,18 @@ Public Class clsSip2Patron
                 If strNBDueDate = "" Then
                     'strNBDueDate = PrintISOTime(Now.AddDays(10), TimeZone)
                     'Check lai nha
-                    strNBDueDate = Now.AddDays(10).ToString("dd/MM/yyyy")
+                    Dim soNgay As Integer = 10
+                    Dim dtChinhsach As DataTable = Me.GetData("select t.* from LoanType t inner join Ma_xep_gia m on m.LoanTypeID=t.LoanTypeID where m.Ma_xep_gia='" & strCopyNumber & "'")
+                    If dtChinhsach.Rows.Count > 0 Then
+                        soNgay = Integer.Parse(dtChinhsach.Rows(0)("LoanPeriod").ToString())
+                    End If
+
+                    strNBDueDate = Now.AddDays(soNgay).ToString("dd/MM/yyyy")
+
                     '2022 return ngay tra
-                   
+
                 End If
+                ' strNBDueDate = "20/09/2022"
                 'strResponse = "121NNY" & PrintISOTime(Now, TimeZone) & "AO" & colFields("AO") & "|AA" & colFields("AA") & "|AB" & colFields("AB") & "|AJ" & strTitle & "|AH" & strNBDueDate & "|CH" & strNote
                 '121NNY20210326    165632AO|AA100220066|AB100012024|AJLuat an ninh quAc gia: QuAc hoi thong qua ngay 03 thAng 12 nam 2004|AH4/19/2021|CK001|AY4AZE9F9
                 '121NNY20210326    171816AO|AA100220066|AB100012024|AJLuat an ninh quAc gia: QuAc hoi thong qua ngay 03 thAng 12 nam 2004|AH4/19/2021|CK001|CH|AY|AZD5C7
